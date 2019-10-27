@@ -1,0 +1,148 @@
+Watching for file changes with StatReloader
+/root/.virtaulenvs/newxq/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (3135, "'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.")
+  result = self._query(query)
+/root/.virtaulenvs/newxq/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (3090, "Changing sql mode 'NO_AUTO_CREATE_USER' is deprecated. It will be removed in a future release.")
+  result = self._query(query)
+[08/Aug/2019 18:38:37] "GET / HTTP/1.1" 200 5184
+[08/Aug/2019 18:38:37] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 200 22119
+[08/Aug/2019 18:38:38] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 200 36873
+[08/Aug/2019 18:38:38] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 200 27726
+[08/Aug/2019 18:38:38] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 200 83612
+[08/Aug/2019 18:38:38] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 200 271482
+[08/Aug/2019 18:38:38] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 200 96273
+[08/Aug/2019 18:38:39] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 81284
+[08/Aug/2019 18:38:54] "POST / HTTP/1.1" 302 0
+[08/Aug/2019 18:38:57] "GET /main/ HTTP/1.1" 200 38474
+[08/Aug/2019 18:38:57] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 200 33772
+[08/Aug/2019 18:38:57] "GET /static/css/mains/main.css HTTP/1.1" 200 41904
+[08/Aug/2019 18:38:57] "GET /static/css/stu_css/me.css HTTP/1.1" 200 16045
+[08/Aug/2019 18:38:57] "GET /static/images/icon.png HTTP/1.1" 200 3561
+[08/Aug/2019 18:38:57] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 200 83612
+[08/Aug/2019 18:38:57] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 200 31819
+[08/Aug/2019 18:38:58] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 200 3472
+[08/Aug/2019 18:38:58] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 200 472614
+[08/Aug/2019 18:38:58] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 200 50937
+[08/Aug/2019 18:38:58] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 200 9066
+[08/Aug/2019 18:38:58] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 200 534
+[08/Aug/2019 18:38:58] "GET /static/images/f4.jpg HTTP/1.1" 200 1934
+[08/Aug/2019 18:38:58] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 200 46822
+[08/Aug/2019 18:38:58] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 200 109518
+[08/Aug/2019 18:39:02] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[08/Aug/2019 18:39:02] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /favicon.ico
+[08/Aug/2019 18:39:02] "GET /favicon.ico HTTP/1.1" 404 6615
+[08/Aug/2019 18:39:13] "GET / HTTP/1.1" 200 5184
+Not Found: /assets/js/jquery.mobile.custom.min.js
+[08/Aug/2019 18:39:13] "GET /assets/js/jquery.mobile.custom.min.js HTTP/1.1" 404 6693
+[08/Aug/2019 18:39:17] "GET /main/ HTTP/1.1" 200 38474
+[08/Aug/2019 18:40:57] "GET / HTTP/1.1" 200 5184
+[08/Aug/2019 18:40:57] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 200 22119
+[08/Aug/2019 18:40:57] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 200 36873
+[08/Aug/2019 18:40:57] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 200 27726
+[08/Aug/2019 18:40:57] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 200 96273
+[08/Aug/2019 18:40:58] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 200 271482
+[08/Aug/2019 18:40:58] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 81284
+[08/Aug/2019 18:40:59] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 200 83612
+Not Found: /favicon.ico
+[08/Aug/2019 18:41:01] "GET /favicon.ico HTTP/1.1" 404 6615
+[08/Aug/2019 18:41:09] "POST / HTTP/1.1" 302 0
+[08/Aug/2019 18:41:11] "POST / HTTP/1.1" 302 0
+[08/Aug/2019 18:41:14] "GET /main/ HTTP/1.1" 200 38474
+[08/Aug/2019 18:41:14] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 200 109518
+[08/Aug/2019 18:41:14] "GET /static/css/stu_css/me.css HTTP/1.1" 200 16045
+[08/Aug/2019 18:41:14] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 200 33772
+[08/Aug/2019 18:41:14] "GET /static/css/mains/main.css HTTP/1.1" 200 41904
+[08/Aug/2019 18:41:14] "GET /static/images/icon.png HTTP/1.1" 200 3561
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 200 3472
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 200 9066
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 200 31819
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 200 50937
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 200 534
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 200 46822
+[08/Aug/2019 18:41:15] "GET /static/images/f4.jpg HTTP/1.1" 200 1934
+[08/Aug/2019 18:41:15] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 200 472614
+[08/Aug/2019 18:41:18] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[08/Aug/2019 18:41:19] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[08/Aug/2019 18:41:33] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[08/Aug/2019 18:42:53] "GET / HTTP/1.1" 200 5184
+[08/Aug/2019 18:42:53] "GET / HTTP/1.1" 200 5184
+[08/Aug/2019 18:43:02] "POST / HTTP/1.1" 302 0
+Forbidden (CSRF token missing or incorrect.): /
+[08/Aug/2019 18:43:03] "POST / HTTP/1.1" 403 2508
+[08/Aug/2019 18:43:05] "GET /main/ HTTP/1.1" 200 38474
+Forbidden (CSRF token missing or incorrect.): /
+[08/Aug/2019 18:43:09] "POST / HTTP/1.1" 403 2508
+[08/Aug/2019 18:43:11] "GET / HTTP/1.1" 200 5184
+[08/Aug/2019 18:43:15] "GET / HTTP/1.1" 200 5184
+[08/Aug/2019 18:43:23] "POST / HTTP/1.1" 302 0
+[08/Aug/2019 18:43:26] "GET /main/ HTTP/1.1" 200 38474
+[08/Aug/2019 18:43:26] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[08/Aug/2019 18:43:26] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[08/Aug/2019 18:43:36] "GET /stcred/ HTTP/1.1" 200 33789
+[08/Aug/2019 18:43:36] "GET /static/css/stu_css/bootstrap-table.css HTTP/1.1" 200 4355
+[08/Aug/2019 18:43:36] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[08/Aug/2019 18:43:36] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[08/Aug/2019 18:43:36] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[08/Aug/2019 18:43:40] "GET /course/ HTTP/1.1" 200 21949
+[08/Aug/2019 18:43:40] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[08/Aug/2019 18:43:40] "GET /static/js/stu_js/bootstrap-table.js HTTP/1.1" 200 50492
+[08/Aug/2019 18:43:40] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /course/tables/data2.json
+[08/Aug/2019 18:43:41] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6690
+Not Found: /course/tables/data2.json
+[08/Aug/2019 18:43:41] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6690
+[08/Aug/2019 18:43:46] "GET /inst/ HTTP/1.1" 200 27968
+[08/Aug/2019 18:43:47] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /inst/tables/data2.json
+[08/Aug/2019 18:43:47] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6684
+[08/Aug/2019 18:43:47] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /xadmin
+[08/Aug/2019 18:44:08] "GET /xadmin HTTP/1.1" 404 6600
+[08/Aug/2019 18:44:17] "GET /xadmin/ HTTP/1.1" 200 4356
+[08/Aug/2019 18:44:17] "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+[08/Aug/2019 18:44:17] "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8364
+[08/Aug/2019 18:44:17] "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4375
+[08/Aug/2019 18:44:17] "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+[08/Aug/2019 18:44:18] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+[08/Aug/2019 18:44:18] "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+[08/Aug/2019 18:44:18] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+[08/Aug/2019 18:44:18] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+[08/Aug/2019 18:44:18] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+[08/Aug/2019 18:44:18] "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+[08/Aug/2019 18:44:18] "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+[08/Aug/2019 18:44:18] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4363
+[08/Aug/2019 18:44:18] "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+[08/Aug/2019 18:44:19] "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+[08/Aug/2019 18:44:19] "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+[08/Aug/2019 18:44:19] "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4033
+[08/Aug/2019 18:44:19] "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+[08/Aug/2019 18:44:20] "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+[08/Aug/2019 18:44:37] "POST /xadmin/ HTTP/1.1" 200 4585
+[08/Aug/2019 18:44:38] "GET /xadmin/jsi18n/ HTTP/1.1" 200 4363
+[08/Aug/2019 18:45:45] "POST /xadmin/ HTTP/1.1" 302 0
+[08/Aug/2019 18:45:48] "GET /xadmin/ HTTP/1.1" 200 32716
+[08/Aug/2019 18:45:48] "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+[08/Aug/2019 18:45:48] "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+[08/Aug/2019 18:45:48] "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+[08/Aug/2019 18:45:49] "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+Not Found: /autologin/4/20162163/8efab843394e4ac5a0ffa405efd165d0
+[08/Aug/2019 18:47:09] "GET /autologin/4/20162163/8efab843394e4ac5a0ffa405efd165d0 HTTP/1.1" 404 6741
+Not Found: /autologin/4/20162163/8efab843394e4ac5a0ffa405efd165d0
+[08/Aug/2019 18:50:08] "GET /autologin/4/20162163/8efab843394e4ac5a0ffa405efd165d0 HTTP/1.1" 404 6741
+Not Found: /autologin/4/20162163/358de6572f504db19ccfad59bfcb0f12
+[08/Aug/2019 18:53:48] "GET /autologin/4/20162163/358de6572f504db19ccfad59bfcb0f12 HTTP/1.1" 404 6741
+/home/xxl/newxq/newxq/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+August 08, 2019 - 18:04:13
+Django version 2.2.2, using settings 'newxq.settings'
+Starting development server at http://[2001:da8:270:2018:f816:3eff:fe07:4a3]:443/
+Quit the server with CONTROL-C.
+区块链
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['Node.js', '工具、语言\t开源框架与组件\t共识算法\t', <HotJob: nodejs架构师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>]]
+Watching for file changes with StatReloader
+/root/.virtaulenvs/newxq/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (3135, "'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.")
+  result = self._query(query)
+/root/.virtaulenvs/newxq/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (3090, "Changing sql mode 'NO_AUTO_CREATE_USER' is deprecated. It will be removed in a future release.")
+  result = self._query(query)
