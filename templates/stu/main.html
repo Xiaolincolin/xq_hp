@@ -121,6 +121,14 @@
 						<!-- 蓝 -->
 						<button style="width:100%;float:right;border:0;" type="button" class="btn btn-primary " id="bf"  onclick="OpenBox(this)"> 我 的 帮 扶 </button>
 
+					</div >
+                    <div class="row no-padding" style="border:0;margin-top: 10px;">
+                        <a href="{% url 'hp' %}">
+						<!-- 蓝 -->
+						<button style="width:100%;float:right;border:0;display:none;" type="button" class="btn btn-primary " id="gl" >关联分析</button>
+                        </a>
+
+
 					</div>
 				</div>
 			</div>
@@ -741,6 +749,10 @@
                 $("#showblue").show();
             }else{
                 $("#showorg").show();
+            }
+            let login_user = {{ login_user }}
+            if (login_user==1){
+                 $("#gl").show();
             }
     </script>
 

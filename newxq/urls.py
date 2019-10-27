@@ -19,7 +19,7 @@ from django.views.decorators.csrf import csrf_exempt
 
 import xadmin
 from users.views import MyMessageView, LogoutView, LoginView, ConfirmInterestView, ReconfirmIterestView, AutoLogin, \
-    AboutTc
+    AboutTc,HpView
 from reposityory.views import JobDetailView,ReposityoryView,ArtcleDetailView,ProjectDetailView
 from courese.views import CoursetableView, StudentCreaditView, WarmMessageView, CourseAjaxView
 from madmin.views import MadminView, Admin_warmView, Studenty_detailView, IndexView, Stududent_likeView, \
@@ -108,6 +108,8 @@ urlpatterns = [
     #助学进度
     url(r'^hplan/$', Helplan.as_view(), name='hplan'),
 
+    #关联分析
+    url(r'^hp/$', HpView.as_view(), name='hp'),
     #插入信息
     # url(r'^insertmsg/$', InsertStudnetMSG.as_view(), name='insertmsg'),
 
